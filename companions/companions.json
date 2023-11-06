@@ -1,5 +1,12 @@
 [
   {
+    "name": "Dexter",
+    "title": "I love helping Microverse students",
+    "imageUrl": "/alex.png",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
     "name": "Alex",
     "title": "I love talking about books and games",
     "imageUrl": "/alex.png",
